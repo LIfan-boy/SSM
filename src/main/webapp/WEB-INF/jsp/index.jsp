@@ -63,7 +63,7 @@
             <img src="images/mine.jpg" alt="Free HTML5 Bootstrap Template" class="img-responsive">
         </figure>
         <h3 class="heading">关于我</h3>
-        <h2>Koali</h2>
+        <h2>LiFan</h2>
         <p>我的梦想是全栈Java，我的口号是做自己.</p>
         <ul class="fh5co-social">
             <li><a href="http://weibo.com/u/2972144032"><i class="icon-sina-weibo"></i></a></li>
